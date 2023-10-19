@@ -1,4 +1,4 @@
-# broadwayDesigh
+# BroadwayDesigh
 Repositorio para practicar html y CSS con motivos de la ciudad de Broadway. Se han usado los siguientes conceptos: Syntax, Selectors, Visual Rules, the Box Model, Display and Positioning, colors and typography
 
 ```
